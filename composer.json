@@ -1,0 +1,12 @@
+{
+    "name": "first/composerproject",
+    "description": "on php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kripton",
+            "email": "simenk@mail.ru"
+        }
+    ],
+    "require": {}
+}
